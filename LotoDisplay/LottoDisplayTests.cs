@@ -1,10 +1,10 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace LotoDisplay
+namespace LottoDisplay
 {
     [TestClass]
-    public class UnitTest1
+    public class LottoDisplayTests
     {
         [TestMethod]
         public void TestMethod1()
