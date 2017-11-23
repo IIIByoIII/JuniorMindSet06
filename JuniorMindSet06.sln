@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoDisplay", "LotoDisplay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{DF3F54DD-BBDB-40CE-84FF-C1C0E82425F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCenter", "ServiceCenter\ServiceCenter.csproj", "{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DF3F54DD-BBDB-40CE-84FF-C1C0E82425F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF3F54DD-BBDB-40CE-84FF-C1C0E82425F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF3F54DD-BBDB-40CE-84FF-C1C0E82425F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
