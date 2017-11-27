@@ -4,11 +4,13 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace ServiceCenter
 {
     [TestClass]
-    public class ServiceOrdersTests
+    public class ServiceTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void OrdersAndPriorities()
         {
+            int[] orders = new int[] { 2, 1, 3 };
+            CollectionAssert.AreEqual(new int[,]{{ 1, 2 }, { 2, 1 }, { 3, 3 }}, Service.Orders(orders));
         }
     }
 }
