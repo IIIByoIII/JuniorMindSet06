@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCenter", "ServiceCenter\ServiceCenter.csproj", "{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DensityOfWords", "DensityOfWords\DensityOfWords.csproj", "{B162CEC4-B09D-4E04-ADB5-2E3DF3A7B55A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48FEB63E-C05D-4DD3-8BC1-8B9FF92D0C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B162CEC4-B09D-4E04-ADB5-2E3DF3A7B55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B162CEC4-B09D-4E04-ADB5-2E3DF3A7B55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B162CEC4-B09D-4E04-ADB5-2E3DF3A7B55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B162CEC4-B09D-4E04-ADB5-2E3DF3A7B55A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
